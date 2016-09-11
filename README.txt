@@ -21,6 +21,13 @@ Product Catalog Service : http://localhost:9080/product/catalog/service/healthch
 Product Pricing Service : http://localhost:9081/product/pricing/service/healthcheck/info
 
 
+Run :
+-------
+
+1) Right click the project in eclipse and select "Run As" --> Mavin build ... --> Goals : jetty:run , Profiles : jetty
+
+
+
 H2 Database Console :
 -----------------------
 
